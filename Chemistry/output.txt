@@ -1,0 +1,33 @@
+'parace' 2023 <Belfarm> 15 5.4
+'eskap' 2022 <Belfarm> 17 8.4
+'lekkk' 2024 <BWMgroup> 19 3.2
+'medicine' 2025 <BWMgroup> 19 8.3
+'afagagaga' 2022 <BWMgroup> 18 3.7
+
+----------------
+Сортировка по цене
+'eskap' 2022 <Belfarm> 17 8.4
+'medicine' 2025 <BWMgroup> 19 8.3
+'parace' 2023 <Belfarm> 15 5.4
+'afagagaga' 2022 <BWMgroup> 18 3.7
+'lekkk' 2024 <BWMgroup> 19 3.2
+
+----------------
+Сортировка по имени
+'afagagaga' 2022 <BWMgroup> 18 3.7
+'eskap' 2022 <Belfarm> 17 8.4
+'lekkk' 2024 <BWMgroup> 19 3.2
+'medicine' 2025 <BWMgroup> 19 8.3
+'parace' 2023 <Belfarm> 15 5.4
+
+----------------
+Искомый элемент 'eskap' 2022 <Belfarm> 17 8.4
+----------------
+Группировка по компании 
+<BWMgroup>
+'afagagaga' 2022 <BWMgroup> 18 3.7
+'lekkk' 2024 <BWMgroup> 19 3.2
+'medicine' 2025 <BWMgroup> 19 8.3
+<Belfarm>
+'eskap' 2022 <Belfarm> 17 8.4
+'parace' 2023 <Belfarm> 15 5.4

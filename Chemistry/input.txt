@@ -1,0 +1,5 @@
+ 15 5.4 2023 <Belfarm> 'parace'
+ 17 8.4 <Belfarm> 2022 'eskap'
+ 19 3.2 <BWMgroup> 'lekkk' 2024
+ 19 8.3 <BWMgroup> 'medicine' 2025
+ 18 3.7 <BWMgroup> 2022 'afagagaga'
