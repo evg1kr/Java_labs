@@ -1,0 +1,4 @@
+3
+YAA
+Some,text.with
+words to!replace?YES
